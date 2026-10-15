@@ -1,0 +1,19 @@
+# Giấu
+**/local.ps1
+**/local.zsh
+**/local.sh
+
+# Không có gì bí mật cả
+.env
+.env.*
+**/secrets.*
+**/credentials.*
+
+# Rác công nghệ
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Chắc cũng là rác công nghệ
+.vscode/
+.idea/
